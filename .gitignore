@@ -1,0 +1,5 @@
+# Ignore .streamlit folder
+streamlit:
+  ignorePaths:
+    - .streamlit
+    
